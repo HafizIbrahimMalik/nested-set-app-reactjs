@@ -1,0 +1,22 @@
+.details-wrapper {
+    text-align: left;
+
+    h2 {
+        font-size: 1.5rem;
+        color: #007bff;
+        margin-bottom: 10px;
+    }
+
+    p {
+        margin: 5px 0;
+
+        strong {
+            color: #333;
+        }
+    }
+
+    .placeholder {
+        font-style: italic;
+        color: #999;
+    }
+}

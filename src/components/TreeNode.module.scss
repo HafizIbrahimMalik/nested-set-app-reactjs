@@ -1,0 +1,31 @@
+.tree {
+  list-style: none;
+  padding-left: 20px;
+}
+
+.node {
+  margin: 5px 0;
+}
+
+.nodeHeader {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.toggleIcon {
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+.nodeType {
+  font-weight: bold;
+}
+
+.nodeChildren {
+  margin-left: 20px;
+}
+
+.selected {
+  background-color: #f0f0f0;
+}
